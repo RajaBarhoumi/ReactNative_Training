@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Calibri Bold Italic.ttf",
+      "sha1": "0b78e4e7c728a3889c7abc3ef415c0540a9f1455"
+    },
+    {
+      "path": "assets/fonts/Calibri Bold.ttf",
+      "sha1": "e400e1f7ee99f95cfda7a826329719192dff59c8"
+    },
+    {
+      "path": "assets/fonts/Calibri Regular.ttf",
+      "sha1": "18bdacade53d1ca0d7f57e4e4be5c965709fc9b0"
+    }
+  ]
+}
